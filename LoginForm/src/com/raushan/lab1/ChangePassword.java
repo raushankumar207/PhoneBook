@@ -96,12 +96,12 @@ public class ChangePassword implements ActionListener {
 			try
 			{
 				
-				/*if (rs != null)
+				if (rs != null)
 					rs.close();
 				if (st != null)
 					st.close();
 				if (con != null)
-					con.close();*/
+					con.close();
 			}
 			catch(Exception exp)
 			{
